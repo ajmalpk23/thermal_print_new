@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">PrintTest</string>
+    <!-- Print -->
+    <string name="printer_version">Printer Version：</string>
+    <string name="walk_paper_lines">Walk Paper Lines:</string>
+    <string name="walk_paper_test">Walk Paper</string>
+    <string name="left_margin">Left Margin:</string>
+    <string name="row_space">Row Space:</string>
+    <string name="font_size">Font Size：</string>
+    <string name="gray_level">Gray Level:</string>
+    <string name="print_content">Print Content：</string>
+    <string name="chinese_example">ZH Example</string>
+    <string name="english_example">EN Example</string>
+    <string name="fr_example">FR Example</string>
+    <string name="clear_text">Clear</string>
+    <string name="print_text">Print Text</string>
+    <string name="printing_wait">Printing, please wait……</string>
+    <string name="D_barcode_loading">Qrcode loading</string>
+    <string name="generate_barcode_wait">Generating barcode, please wait……</string>
+    <string name="input_print_data">Please input print data</string>
+    <string name="maker_search_distance">Walk Paper For Search Black Block:</string>
+    <string name="maker_walk_distance">Walk Paper After Haved Search:</string>
+    <string name="maker_walk_distance_range">(0-255)</string>
+    <string name="maker">Black Block Detection</string>
+    <string name="maker_error">maker input value not fit</string>
+    <string name="maker_not_find">Cannot Find Black Block</string>
+    <string name="papercut">Paper Cut</string>
+    <string name="walk_paper_intput_value">walk paper intput value not fit</string>
+    <string name="sure">sure</string>
+    <string name="not_find_picture">not find picture</string>
+    <string name="watting">Please wait while checking driver version</string>
+    <string name="noPaper">No paper</string>
+    <string name="noPaperNotice">No paper, please put paper in and retry</string>
+    <string name="LowBattery">Low battery, please connect the charger!</string>
+    <string name="overTemp">over temp !</string>
+    <string name="ptintInit">Printer initialing... Please try again after a few seconds.</string>
+    <string name="outOfLeft">Beyond the left margin！</string>
+    <string name="outOfLine">Beyond the row space！</string>
+    <string name="outOfFont">Beyond the font size！</string>
+    <string name="outOfGray">Beyond the gray level！</string>
+    <string name="empty">The content is empty！</string>
+    <string name="lengthNotEnougth">The length is not enough！</string>
+    <string name="input_content">input content</string>
+    <string name="dialog_comfirm">ConFirm</string>
+    <string name="operation_result">Result</string>
+    <string name="bl_dy">Print</string>
+
+    <!-- Scan barcode or qrcode -->
+
+    <!-- Magnetic Card -->
+
+    <!-- RFID -->
+    <string name="operation_fail">Operation failed</string>
+
+    <!-- ID Card -->
+    <string name="idcard_czz">Proceeding...</string>
+
+    <!-- IC/PSAM -->
+
+    <!-- MoneyBox  -->
+
+    <!-- IR -->
+
+    <!-- Led -->
+
+    <!--Laser -->
+
+    <!-- NFC -->
+
+</resources>

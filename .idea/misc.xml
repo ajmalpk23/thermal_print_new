@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Peapi/printTest/app/src/main/res/layout/activity_device_list.xml" value="0.182518115942029" />
+        <entry key="..\:/Peapi/printTest/app/src/main/res/layout/activity_main.xml" value="0.182518115942029" />
+        <entry key="..\:/Peapi/printTest/app/src/main/res/layout/layout_cart_list.xml" value="0.17617753623188406" />
+        <entry key="..\:/Peapi/printTest/app/src/main/res/layout/layout_device_name.xml" value="0.182518115942029" />
+        <entry key="..\:/Peapi/printTest/app/src/main/res/layout/print_text.xml" value="0.14333333333333334" />
+        <entry key="..\:/Peapi/printTest/app/src/main/res/layout/usbprint_code_and_pic.xml" value="0.16983695652173914" />
+        <entry key="..\:/Peapi/printTest/app/src/main/res/layout/usbprint_text.xml" value="0.18365218000502148" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
